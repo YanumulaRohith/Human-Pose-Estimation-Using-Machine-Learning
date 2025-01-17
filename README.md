@@ -1,8 +1,4 @@
-Here's a **README** file for the Human Pose Estimation project based on the Python code you provided.
-
----
-
-# Human Pose Estimation Using OpenCV and Deep Learning
+# Human Pose Estimation Using Machine Learning
 
 This project demonstrates human pose estimation using a deep learning model with OpenCV. The code takes an image as input and detects human body poses by identifying key points on the human body such as the nose, shoulders, elbows, wrists, hips, knees, and ankles.
 
